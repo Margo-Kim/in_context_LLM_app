@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ai-assisted-coding_panther"
+  site-url: "https://dsi-principles-prog-F2023.github.io/ai-assisted-coding_panther"
+  description: "testing_nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/dsi-principles-prog-F2023/ai-assisted-coding_panther"
